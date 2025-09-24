@@ -22,7 +22,7 @@
 
   ```bash
   # Clone repository
-  git clone https://github.com/ibsgnxxx/web-portal-vn-style.git
+  git clone https://github.com/chairuldjt/web-portal-vn-style.git
   
   # Masuk ke direktori proyek
   cd web-portal-vn-style
